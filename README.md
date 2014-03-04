@@ -8,7 +8,7 @@ Running
 
 You can run your starter application with:
 
-  python sample.py
+  python multiple_channel_sample.py
 
 It will ask how many accounts you want to check.
 
